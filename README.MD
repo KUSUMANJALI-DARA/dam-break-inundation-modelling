@@ -63,6 +63,7 @@ Member 2 - UI/UX Design
 Member 3 - Data and Modelling
 Member 4 - System Design and Documentation
 Member 5 - Development and Testing
+Member 6-  DATA COLLECTION, IMPLEMENTATION AND EXECUTION AND REPORT GENERATION
 
 ## Project Status
 
